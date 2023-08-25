@@ -29,7 +29,7 @@
 <p> - El proyecto son con fines de demostración pero se puede utilizar en un caso real. </p>
 <p> - El proyecto esta dividido siguiendo las reglas de jdbc. </p>
 <p> - Cada proceso del proyecto ya sea modelos, views, controladores, recursos, etc., estan dividos y ordenados por carpeta. </p>
-<p align="center"> - Diagrama Entidad Relacion propuesta por Alura - <br> <br></p>
+<p align="center"> - Diagrama Entidad Relacion propuesto por Alura - <br> <br></p>
 <div align="center">
   
    ![entidad-relacion-hotel-alura](https://github.com/AdairTm2000/Hotel-Alura/assets/95663264/25e942a2-dd77-4ac4-ae71-03caddec1644)
