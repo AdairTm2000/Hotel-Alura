@@ -14,7 +14,7 @@ private DataSource dataSource;
 		var pooledDataSource = new ComboPooledDataSource();
 		pooledDataSource.setJdbcUrl("jdbc:mysql://localhost/hotel_alura?useTimeZone=true&serverTimeZone=UTC");
 		pooledDataSource.setUser("root");
-		pooledDataSource.setPassword("Bl@nc@123");
+		pooledDataSource.setPassword("root");
 		//pooledDataSource.setMaxPoolSize(10); //Maxima conecciones que se pueden abrir
 		
 		this.dataSource = pooledDataSource;
