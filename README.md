@@ -70,6 +70,8 @@
 
 </div>
 
+<p align="center"> Descargar base de datos implementado en el sistema: <br> 💥 https://drive.google.com/file/d/1tVwA1mQ9RVoz6hyfov5py6MF1z4XEouf/view?usp=sharing 💥</p>
+
 <h2 align="center"> Mejoras posibles al sistemas para futuras actualizaciones <br> </h2>
 <p align="center">
   💥 Hacer la interfaz via web con html y css para una mejor interfaz grafica 💥 <br>  
