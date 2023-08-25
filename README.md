@@ -29,6 +29,13 @@
 <p> - El proyecto son con fines de demostración pero se puede utilizar en un caso real. </p>
 <p> - El proyecto esta dividido siguiendo las reglas de jdbc. </p>
 <p> - Cada proceso del proyecto ya sea modelos, views, controladores, recursos, etc., estan dividos y ordenados por carpeta. </p>
+<p align="center"> - Diagrama Entidad Relacion propuesta por Alura - <br> <br></p>
+<div align="center">
+  
+   ![entidad-relacion-hotel-alura](https://github.com/AdairTm2000/Hotel-Alura/assets/95663264/25e942a2-dd77-4ac4-ae71-03caddec1644)
+  
+</div>
+
 <li>El programa cuenta con una clase principal que contiene el metodo main, ahi ejecuta la interfaz principal del sistema que sirve para decir al trabajador o a la persona a cargo si desea loguearse o esperar un poco, la interfaz se ve asi: <br> <br> </li>
 
 <div align="center">
@@ -77,7 +84,8 @@
   💥 Hacer la interfaz via web con html y css para una mejor interfaz grafica 💥 <br>  
   💥 Mejorar las consultas para que no sean solo por nombre o apellido 💥 <br>
   💥 Utilizar interface para los metodos que se emplearan 💥 <br>
-  💥 Mejorar la consulta a la base de datos para el login 💥
+  💥 Mejorar la consulta a la base de datos para el login 💥 <br>
+  💥 Mejorar el diagrama entidad relacion que se implemento en este sistema 💥
  </p>
 
 <h2 align="center"> Autor <br> </h2>
